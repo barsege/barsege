@@ -32,4 +32,4 @@ Java backend project focused on clean architecture and business rules.
 - Testing (JUnit / Mockito)
 
 ## Contact
-- LinkedIn:[ your-linkedin-url](https://www.linkedin.com/in/baris-ege-acar-7825511b3/)
+- LinkedIn:[barsege](https://www.linkedin.com/in/baris-ege-acar-7825511b3/)
